@@ -1,0 +1,25 @@
+{
+  "name": "typedoc-layaair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "typedocfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfirecode/TypeDoc-LayaAir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildfirecode/TypeDoc-LayaAir/issues"
+  },
+  "homepage": "https://github.com/wildfirecode/TypeDoc-LayaAir#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typedoc": "^2.0.3",
+    "strip-json-comments": "^2.0.1",
+    "typedoc": "^0.8.0"
+  }
+}
