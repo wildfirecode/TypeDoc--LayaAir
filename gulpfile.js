@@ -34,5 +34,8 @@ const generateDoc = () =>
 
 gulp.task('default', () => {
     generateDoc();
+})
+
+gulp.task('watch', () => {
     gulp.watch('./src/*.ts', generateDoc);
 })
