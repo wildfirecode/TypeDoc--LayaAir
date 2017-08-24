@@ -13,3 +13,5 @@
 add `"skipLibCheck": true` to tsconfig.json
 
 [typedoc]:http://typedoc.org/
+
+[url]:http://wildfirecode.com/TypeDoc-LayaAir/typedocs/LayaAir-TypeDoc-Demo/
